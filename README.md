@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3gBE-DossAtrBa9a0wGjM0imLq07ivmIypFfyeL7HxUuNQM&s)]
 <h1 align="center">Hi 👋, I'm Harshika S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiOD1qPHul7tnX4NW-JOzxoHyWItTXX6RpzAQqyiE5vbAXTfe&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshikashivaswamy&label=Profile%20views&color=0e75b6&style=flat" alt="harshikashivaswamy" /> </p>
